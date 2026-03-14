@@ -8,9 +8,7 @@
 code/
 ├── chapter1_绪论/
 │   └── 1.1_误差分析/
-│       ├── README.md
-│       ├── 1.1.py
-│       └── 1.1_result.txt
+│ 
 ├── chapter2_数值计算方法/
 │   ├── 2.1_二分法求方程根/
 │   │   ├── README.md
